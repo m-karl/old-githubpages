@@ -1,4 +1,3 @@
-github: [metadata]
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
@@ -107,7 +106,7 @@ content:
       - Tennis
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/m-karl.github.io/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
@@ -122,3 +121,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+github: [metadata]
